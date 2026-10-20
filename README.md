@@ -1,2 +1,2 @@
 # SEU-CS-OpenSource-Reinforcement_Learning
-仓库规划中，敬请期待！
+本仓库以OpenAI的spinningup仓库所提供的深度强化学习材料进行改编，移除了比较老的包和环境，同时添加了个人的一些理解和注释（全英文），希望对RL感兴趣但是又不知道怎么学的朋友提供一些帮助。
