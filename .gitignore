@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 本地虚拟环境
+.venv/
+venv/
+
+# 编辑器个人设置
+.vscode/
+.idea/
+
+# 本地训练结果
+/1.ppo/data/
+
+# 模型文件
+*.pt
+*.pth
+
+# 本地环境变量
+.env
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db

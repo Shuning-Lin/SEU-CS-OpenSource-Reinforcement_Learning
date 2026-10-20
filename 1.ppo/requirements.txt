@@ -1,0 +1,11 @@
+torch
+numpy
+scipy
+gymnasium
+# only needed for plot.py
+pandas
+seaborn
+matplotlib
+# only needed for non-CartPole envs, e.g. gymnasium[mujoco] for HalfCheetah-v5
+# pygame is needed for rendering CartPole in test_policy.py
+pygame
