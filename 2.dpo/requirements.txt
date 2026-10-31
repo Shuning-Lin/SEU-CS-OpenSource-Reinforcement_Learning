@@ -1,0 +1,7 @@
+# Install a suitable CUDA build of PyTorch first if GPU training is needed (see README).
+# Dependency ranges, not a fully tested lockfile. Transformers 5.x is outside this example's scope.
+torch>=2.6,<3
+transformers>=4.45,<6
+datasets>=3,<6
+numpy>=1.26,<3
+scipy>=1.11,<2
